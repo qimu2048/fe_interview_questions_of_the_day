@@ -6,6 +6,7 @@ In this doc, I will introduce all the licenses supported in github.
 
 Here's the licenses options when you start a repo.
 
+<!-- ![license-list](../imgs/license-list.png "list of 12 licenses") -->
 <img width="400" height="720" src="../imgs/license-list.png">
 
 ## The Limits of the Licenses
@@ -13,3 +14,4 @@ Here's the licenses options when you start a repo.
 #### MIT License
 to be continued ...
 
+*[Back to Contents](../README.md)*
