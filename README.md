@@ -6,5 +6,13 @@ Figure out answers for some interview questions each day ; )
 
 * [The Basic Usage of JavaScript](docs/js_basics.md)
 * [The Principles of JavaScript](docs/js_principles.md)
-* [HTML & CSS](docs/html.md)
+* [HTML and CSS](docs/html.md)
 * [Network Protocols](docs/protocols.md)
+* [Algorithm and Data Structure](docs/algorithm.md)
+* [Short Coding Test](docs/programe.md)
+
+### React
+* [React](docs/react.md)
+
+### Bonus
+* [Opensource Licenses](docs/licenses.md)
